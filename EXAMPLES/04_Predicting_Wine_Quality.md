@@ -124,4 +124,4 @@ print(r2_score(y_test, y_pred_best))
 
 ---
 
-You can copy this code into a Jupyter Notebook and run each cell to load, preprocess, train, and evaluate the model. Let me know if you have more questions or need further assistance!
+You can copy this code into a Jupyter Notebook and run each cell to load, preprocess, train, and evaluate the model.
