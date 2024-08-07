@@ -1,4 +1,4 @@
-##### Predicting Titanic Passenger Survival: A Step-by-Step Data Science Workflow with Python
+# Predicting Titanic Passenger Survival: A Step-by-Step Data Science Workflow with Python
 Here's step-by-step practical data science example using Python. This time, we'll use the Titanic dataset from Kaggle to predict the survival of passengers. The steps will be similar but with a different dataset and additional preprocessing steps.
 
 ### Step 1: Load the Dataset
